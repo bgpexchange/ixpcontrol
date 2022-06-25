@@ -1,3 +1,6 @@
 [submodule "node54"]
 	path = node54
 	url = git@github.com:bgpexchange/ixpcontrol.git
+[submodule "nodetest"]
+	path = nodetest
+	url = git@github.com:bgpexchange/ixpcontrol.git
